@@ -1,0 +1,50 @@
+.segment-container {
+    top: 0;
+    left: 0;
+    position: absolute;
+    border: 1px solid red;
+}
+
+.segment-item {
+    position: absolute;
+    width: 800px;
+    top: 0;
+    left: 0;
+}
+.controls-container {
+    top: 30px;
+    left: 820px;
+    position: absolute;
+}
+
+.controls-category {
+    margin: 10px;
+}
+.controls-label {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.control-element {
+    margin-right: 20px;
+}
+
+.toggles-container {
+    top: 280px;
+    left: 20px;
+    position: absolute;
+    height: 50px;
+    width: 60px;
+}
+
+.toggle-element {
+    display: inline-flex;
+    margin-top: 10px;
+}
+
+.toggle-label {
+    margin-top: 5px;
+    margin-left: 5px;
+}
