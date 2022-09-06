@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "iso-configurator-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jnabor.github.io/iso-configurator",
+  "homepage": "https://fineias-block.github.io/iso-configurator-v2",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
