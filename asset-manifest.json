@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iso-configurator/static/css/main.908bed9d.css",
+    "main.js": "/iso-configurator/static/js/main.2acd567a.js",
+    "index.html": "/iso-configurator/index.html",
+    "main.908bed9d.css.map": "/iso-configurator/static/css/main.908bed9d.css.map",
+    "main.2acd567a.js.map": "/iso-configurator/static/js/main.2acd567a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.908bed9d.css",
+    "static/js/main.2acd567a.js"
+  ]
+}
